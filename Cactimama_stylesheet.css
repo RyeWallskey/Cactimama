@@ -1,0 +1,54 @@
+.collapse navbar-collapse img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	border-radius: 8px;
+}
+.homePage img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	border-radius: 8px;
+}
+	
+}
+.socialConnect{
+	Background: #000000;
+	color: #bfff00;	
+	
+}
+.socialConnect ul{
+	
+  display:flex;  
+  list-style:none;
+  
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 60%;
+}
+
+.fa-instagram{
+	background: #125688;
+	color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
